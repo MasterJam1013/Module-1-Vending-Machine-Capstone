@@ -1,0 +1,5 @@
+2021-02-05T13:49:27.602408900 FEED MONEY 4 6.50
+2021-02-05T13:49:32.220921300 PURCHASE: Little League Chew D2 0.95 4 items left
+2021-02-05T13:49:32.243858800GIVE CHANGE 22 quarters and 0 dimes and 1 nickels given in change. REMAINING BALANCE: 0
+2021-02-05T14:06:57.260573200 GIVE CHANGE 0E+2 quarters and 0E+2 dimes and 0E+2 nickels given in change. REMAINING BALANCE: 0
+2021-02-05T14:08:16.562902 GIVE CHANGE 0 quarters and 0 dimes and 0 nickels given in change. REMAINING BALANCE: 0
